@@ -2,7 +2,7 @@ import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-public class MessageApp {
+public class MessageApp implements Serializable {
     public static void main(String[] args) {
 
 
