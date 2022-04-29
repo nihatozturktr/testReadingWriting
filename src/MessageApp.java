@@ -7,8 +7,8 @@ public class MessageApp {
 
 
 
-        Path messagePath = Path.of("/Users/nihat/FromNihatOzturkToPearl/Message.txt");
-        Path animalPath = Path.of("/Users/nihat/FromNihatOzturkToPearl/Animal.txt");
+        Path messagePath = Path.of("/../../FromNihatOzturkToPearl/Message.txt");
+        Path animalPath = Path.of("/../../FromNihatOzturkToPearl/Animal.txt");
         ///Users
 
         try {
